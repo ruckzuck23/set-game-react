@@ -2,11 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg width="61.098mm" height="21.103mm" version="1.1" viewBox="0 0 61.098 21.103" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <pattern id="pattern11662" patternTransform="translate(3.2617e-6 1.9824e-5)" xlink:href="#pattern4521"/>
   <pattern id="pattern4546" patternTransform="translate(2.1481e-6 2.7239e-5)" xlink:href="#pattern3583"/>
   <pattern id="pattern3581" patternTransform="translate(1.0953e-5)" xlink:href="#pattern3574"/>
   <pattern id="pattern3577" patternTransform="translate(1.8477e-5 2.2852e-5)" xlink:href="#pattern14461"/>
-  <pattern id="pattern15250" patternTransform="translate(-3.3518e-6 2.914e-5)" xlink:href="#pattern15245"/>
   <pattern id="pattern14315" patternTransform="matrix(.26627 0 0 .056109 -343.94 286.09)" xlink:href="#pattern1847"/>
   <pattern id="pattern14311" patternTransform="matrix(.27415 0 0 .073344 -339.61 265.63)" xlink:href="#pattern1843"/>
   <pattern id="pattern14307" patternTransform="matrix(.2705 0 0 .073012 -341.05 246.62)" xlink:href="#pattern1839"/>
@@ -148,9 +146,6 @@
   <pattern id="pattern15245" width="149.20414" height="76.565886" patternTransform="translate(217.96 1130)" patternUnits="userSpaceOnUse">
    <rect x=".56693" y=".56693" width="148.07" height="75.432" fill="url(#pattern1717-1)" fill-rule="evenodd" opacity=".98" stroke="#000" stroke-width="1.1339"/>
   </pattern>
-  <pattern id="pattern15288" width="149.20414" height="76.565883" patternTransform="translate(-119.08 934.3)" patternUnits="userSpaceOnUse">
-   <rect width="149.2" height="76.566" fill="url(#pattern15250)"/>
-  </pattern>
   <pattern id="pattern3574" width="149.20415" height="76.565886" patternTransform="translate(583.67 1003)" patternUnits="userSpaceOnUse">
    <rect width="149.2" height="76.566" fill="url(#pattern3577)"/>
   </pattern>
@@ -171,11 +166,19 @@
   <pattern id="pattern4548" width="149.20414" height="76.565876" patternTransform="translate(123.08 1137.4)" patternUnits="userSpaceOnUse">
    <rect width="149.2" height="76.566" fill="url(#pattern4546)"/>
   </pattern>
-  <pattern id="pattern11659" width="149.20415" height="76.565886" patternTransform="translate(-61.299 353.01)" patternUnits="userSpaceOnUse">
-   <rect width="149.2" height="76.566" fill="url(#pattern11662)"/>
+  <pattern id="pattern1717-0" patternTransform="matrix(.37591 -.37591 .16189 .16189 211.01 29.138)" xlink:href="#pattern2427-90"/>
+  <pattern id="pattern2427-90" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 19.826)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#008000" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern2785" width="149.20414" height="76.565886" patternTransform="translate(-201.1 743.79)" patternUnits="userSpaceOnUse">
+   <rect x=".56693" y=".56693" width="148.07" height="75.432" fill="url(#pattern1717-0)" fill-rule="evenodd" opacity=".98" stroke="#000" stroke-width="1.1339"/>
   </pattern>
  </defs>
- <g transform="translate(77.48 -191.89)">
+ <g transform="translate(62.715 -296.2)">
   <g transform="matrix(.85714 0 0 .9 8.5714 .26033)" fill="#f9f9f9" stroke="#010000">
    <rect x="2.2375" y=".28158" width="45.525" height="21.081" stroke-width="1.1417" style="paint-order:normal"/>
    <ellipse cx="1.6667" cy="10.822" rx="11.125" ry="10.569" stroke-width="1.0843" style="paint-order:normal"/>
@@ -206,11 +209,8 @@
    <path transform="matrix(-.17246 .057483 -.17246 -.057483 129.43 175.89)" d="m492.34 246.27h-166.97v-166.97h166.97z" stroke="#000" stroke-width="7.102"/>
    <path d="m0.49971 213.18c19.568-6.5388 39.399 5.6951 59.098 0v15.322c-19.568 6.6443-39.268-7.9099-59.098 0z" stroke="#000"/>
   </g>
-  <g>
-   <path d="m-76.48 194.87c19.568-6.5388 39.399 5.6951 59.098 0v15.322c-19.568 6.6443-39.268-7.9099-59.098 0z" fill="url(#pattern15245)" stroke="#008000" stroke-width="2"/>
-   <path d="m23.277 260.22c19.568-6.5388 39.399 5.6951 59.098 0v15.322c-19.568 6.6443-39.268-7.9099-59.098 0z" fill="url(#pattern4548)" stroke="#0000f6"/>
-   <path d="m-61.715 299.19c19.568-6.5388 39.399 5.6951 59.098 0v15.322c-19.568 6.6443-39.268-7.9099-59.098 0z" fill="url(#pattern15245)" stroke="#00f"/>
-  </g>
+  <path d="m23.277 260.22c19.568-6.5388 39.399 5.6951 59.098 0v15.322c-19.568 6.6443-39.268-7.9099-59.098 0z" fill="url(#pattern3574)" stroke="#0000f6"/>
+  <path d="m-61.715 299.19c19.568-6.5388 39.399 5.6951 59.098 0v15.322c-19.568 6.6443-39.268-7.9099-59.098 0z" fill="url(#pattern15245)" stroke="#008000" stroke-width="2"/>
   <rect x="-273.47" y="42.813" width="12.534" height="6" fill="url(#pattern1775)"/>
   <rect x="-273.47" y="48.813" width="12.534" height="6" fill="url(#pattern1773)"/>
   <rect x="-273.47" y="54.813" width="12.534" height="6" fill="url(#pattern1771)"/>
@@ -237,10 +237,10 @@
    <rect x="-293.79" y="117.47" width="39.177" height="19.958" fill="url(#pattern14277)" opacity=".98"/>
    <rect x="-254.61" y="137.43" width="39.177" height="19.958" fill="url(#pattern1707)" opacity=".98"/>
   </g>
-  <rect transform="matrix(.26458 0 0 .26458 -70.99 142.55)" x="-61.299" y="353.01" width="149.2" height="76.566" fill="url(#pattern11659)"/>
+  <rect transform="scale(.26458)" x="-329.61" y="891.8" width="149.2" height="76.566" fill="url(#pattern4521)"/>
   <rect x="-293.79" y="137.43" width="39.177" height="19.958" fill="url(#pattern14281)" fill-rule="evenodd" opacity=".98" stroke="#000" stroke-width=".3"/>
   <rect x="-254.61" y="157.39" width="39.177" height="19.958" fill="url(#pattern1717)" fill-rule="evenodd" opacity=".98" stroke="#000" stroke-width=".3"/>
-  <rect transform="scale(.26458)" x="-119.08" y="934.3" width="149.2" height="76.566" fill="url(#pattern15288)"/>
+  <rect transform="scale(.26458)" x="-201.1" y="743.79" width="149.2" height="76.566" fill="url(#pattern2785)"/>
   <g>
    <rect x="-293.79" y="157.39" width="39.177" height="19.958" fill="url(#pattern14285)" fill-rule="evenodd" opacity=".98" stroke="#000" stroke-width=".3"/>
    <text x="-250.11942" y="57.823727" dominant-baseline="auto" fill="#000000" font-family="sans-serif" font-size="3.8806px" letter-spacing="0px" stroke-width="1.2534" word-spacing="0px" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-250.11942" y="57.823727" stroke-width="1.2534">To change pattern spacing or angle</tspan><tspan x="-250.11942" y="62.674427" stroke-width="1.2534">use Node tool (N), then find small cross &amp; dot and squares somewhere</tspan><tspan x="-250.11942" y="67.525124" stroke-width="1.2534">on page and drag to alter pattern.</tspan><tspan x="-250.11942" y="72.375824"/><tspan x="-250.11942" y="77.226524"/></text>

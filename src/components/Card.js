@@ -1,11 +1,12 @@
-import PropTypes from "prop-types";
+import { useState } from "react";
+// import PropTypes from "prop-types";
 
-const Card = ({ fileName, number }) => {
+const Card = ({ card, onClick }) => {
   // dynamically importing images
   function importAll(r) {
     let images = {};
     r.keys().map((item, index) => {
-      images[item.replace("./", "")] = r(item);
+      return (images[item.replace("./", "")] = r(item));
     });
     return images;
   }
@@ -14,29 +15,31 @@ const Card = ({ fileName, number }) => {
     require.context("../images", false, /\.(png|jpe?g|svg)$/)
   );
 
-  const onClick = () => {
-    console.log({ fileName });
-  };
-
   return (
-    <div className="card" onClick={onClick}>
-      {[...Array(number)].map((e, i) => (
-        <img className="card-mark" src={images[fileName].default} alt="" />
+    <div
+      className={card.isSelected ? "card card-selected" : "card"}
+      onClick={() => {
+        onClick(card.id);
+      }}
+    >
+      {[...Array(card.number)].map((e, i) => (
+        <img
+          key={i}
+          className="card-mark"
+          src={images[card.fileName].default}
+          alt=""
+        />
       ))}
     </div>
   );
 };
 
-Card.defaultProps = {
-  fileName: "green-rect-filled.png",
-};
-
-Card.propTypes = {
-  color: PropTypes.number,
-  shape: PropTypes.number,
-  pattern: PropTypes.number,
-  number: PropTypes.number,
-  fileName: PropTypes.string,
-};
+// Card.propTypes = {
+//   color: PropTypes.number,
+//   shape: PropTypes.number,
+//   pattern: PropTypes.number,
+//   number: PropTypes.number,
+//   fileName: PropTypes.string,
+// };
 
 export default Card;

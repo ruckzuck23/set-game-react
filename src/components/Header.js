@@ -1,6 +1,6 @@
 const Header = () => {
   return (
-    <div>
+    <div style={{ marginTop: "10px" }}>
       <h2 style={{ textAlign: "center" }}>Set game</h2>
     </div>
   );
