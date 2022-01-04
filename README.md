@@ -1,2 +1,2 @@
 # set-game-react
-set game in react for learning
+[play here](https://ruckzuck23.github.io/set-game-react/)
