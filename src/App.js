@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import Cards from "./components/Cards";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+import Modal from "./components/Modal";
 
 const App = () => {
   // create all 3**4 = 81 patterns of cards
@@ -33,7 +34,6 @@ const App = () => {
         }
       }
     }
-    //TODO revert change
     return all_cards;
   }
 
@@ -41,6 +41,7 @@ const App = () => {
 
   const [cards, setCards] = useState([]);
 
+  //TODO implement later
   // const [selectedCards, setSelectedCards] = useState([]);
 
   const [shuffleRemain, setShuffleRemain] = useState(3);
@@ -91,14 +92,10 @@ const App = () => {
   }
 
   useEffect(() => {
-    if (!cards.length) {
-      // emptied the cards!
-      console.log("Game Clear!!");
-    } else if (!(shuffleRemain || isSolutionPresent(cards))) {
+    if (!(shuffleRemain || isSolutionPresent(cards)) && cards.length) {
       // If you are stuck, game over
       setIsGameOver(true);
       setIsModalOpen(true);
-      console.log("Game Over");
     }
 
     function emptySelected() {
@@ -123,7 +120,7 @@ const App = () => {
     }
   }, [cards]);
 
-  function isSolutionPresent() {
+  function isSolutionPresent(cards) {
     for (let i = 0; i < cards.length; i++) {
       for (let j = i + 1; j < cards.length; j++) {
         for (let k = j + 1; k < cards.length; k++) {
@@ -137,7 +134,9 @@ const App = () => {
   }
 
   useEffect(() => {
-    console.log(isSolutionPresent(cards));
+    if ([...cardsInDeck, ...cards].length === 0) {
+      setIsModalOpen(true);
+    }
   }, [cardsInDeck]);
 
   const toggleCardSelect = (id) => {
@@ -174,13 +173,14 @@ const App = () => {
   function shuffleClick() {
     if (shuffleRemain > 0) {
       const newCards = pickNewCards([...cardsInDeck, ...cards], cards.length);
-      console.log("shuffled", newCards);
       updateCardsInDeck([...cardsInDeck, ...cards], newCards);
-      setCards(newCards);
+      setCards(
+        newCards.map((card) => {
+          return { ...card, isSelected: false };
+        })
+      );
 
       setShuffleRemain(shuffleRemain - 1);
-    } else {
-      console.log("no more shuffles remainnig");
     }
   }
 
@@ -194,6 +194,11 @@ const App = () => {
       />
       <Cards cards={cards} onClick={toggleCardSelect} />
       <Footer />
+      <Modal
+        isOpen={isModalOpen}
+        isGameOver={isGameOver}
+        onClose={() => setIsModalOpen(false)}
+      />
     </div>
   );
 };

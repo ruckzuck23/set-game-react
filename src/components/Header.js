@@ -2,8 +2,8 @@ const Header = ({ remainCount, shuffleRemain, shuffle, isGameOver }) => {
   return (
     <div className="header" style={{ marginTop: "10px" }}>
       <h2 style={{ textAlign: "center" }}>Set game</h2>
-      <p style={{ display: "inline-block" }}>remain: </p>
-      <span style={{ color: isGameOver ? "red" : "" }}>{remainCount}</span>
+      <p style={{ display: "inline-block" }}>remain:</p>
+      <span style={{ color: isGameOver ? "red" : "" }}> {remainCount}</span>
       <button
         style={{
           display: "inline-block",
