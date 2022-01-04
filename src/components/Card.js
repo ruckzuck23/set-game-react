@@ -1,6 +1,3 @@
-import { useState } from "react";
-// import PropTypes from "prop-types";
-
 const Card = ({ card, onClick }) => {
   // dynamically importing images
   function importAll(r) {
@@ -33,13 +30,5 @@ const Card = ({ card, onClick }) => {
     </div>
   );
 };
-
-// Card.propTypes = {
-//   color: PropTypes.number,
-//   shape: PropTypes.number,
-//   pattern: PropTypes.number,
-//   number: PropTypes.number,
-//   fileName: PropTypes.string,
-// };
 
 export default Card;
