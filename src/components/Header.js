@@ -1,21 +1,34 @@
 const Header = ({ remainCount, shuffleRemain, shuffle, isGameOver }) => {
   return (
-    <div className="header" style={{ marginTop: "10px" }}>
+    <div className="header">
       <h2 style={{ textAlign: "center" }}>Set game</h2>
-      <p style={{ display: "inline-block" }}>remain:</p>
-      <span style={{ color: isGameOver ? "red" : "" }}> {remainCount}</span>
-      <button
+      <div
         style={{
-          display: "inline-block",
-          marginLeft: "50%",
-          backgroundColor: !shuffleRemain ? "gray" : "",
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "baseline",
         }}
-        className="btn"
-        disabled={!shuffleRemain}
-        onClick={shuffle}
       >
-        Shuffle: {shuffleRemain}
-      </button>
+        <div>
+          <p style={{ display: "inline-block" }}>remain:</p>
+          <span
+            style={{ display: "inline-block", color: isGameOver ? "red" : "" }}
+          >
+            {" "}
+            {remainCount}
+          </span>
+        </div>
+        <button
+          style={{
+            backgroundColor: !shuffleRemain ? "gray" : "",
+          }}
+          className="btn"
+          disabled={!shuffleRemain}
+          onClick={shuffle}
+        >
+          Shuffle: {shuffleRemain}
+        </button>
+      </div>
     </div>
   );
 };
