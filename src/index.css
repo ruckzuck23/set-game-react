@@ -1,5 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
 
+:root {
+  --grid-width: 75px;
+  --grid-height: 100px;
+  --grid-gap: 10px;
+  --board-padding: 30px;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -8,19 +15,31 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  font-size: 18px;
+}
+
+.header,
+.footer {
+  width: calc(
+    var(--grid-width) * 4 + var(--grid-gap) * 3 + var(--board-padding) * 2
+  );
+  margin: auto;
+  text-align: center;
 }
 
 .Board {
   display: grid;
-  grid-gap: 10px;
-  grid-template-columns: 75px 75px 75px 75px;
-  grid-template-rows: 100px 100px 100px;
+  grid-gap: var(--grid-gap);
+  grid-template-columns: var(--grid-width) var(--grid-width) var(--grid-width) var(
+      --grid-width
+    );
+  grid-template-rows: var(--grid-height) var(--grid-height) var(--grid-height);
   width: fit-content;
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
   border: 1px solid steelblue;
-  padding: 30px;
+  padding: var(--board-padding);
   border-radius: 5px;
 }
 
@@ -39,4 +58,23 @@ body {
 
 .card-mark {
   width: 55px;
+  /* prevent from users to select marks */
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+.btn {
+  width: 100px;
+  background: #000;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 15px;
+  font-family: inherit;
 }
