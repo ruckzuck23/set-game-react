@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="61mm" height="21mm" version="1.1" viewBox="0 0 61 21" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <pattern id="pattern4546" patternTransform="translate(2.1481e-6 2.7239e-5)" xlink:href="#pattern3583"/>
+  <pattern id="pattern3581" patternTransform="translate(1.0953e-5)" xlink:href="#pattern3574"/>
+  <pattern id="pattern3577" patternTransform="translate(1.8477e-5 2.2852e-5)" xlink:href="#pattern14461"/>
+  <pattern id="pattern15250" patternTransform="translate(-3.3518e-6 2.914e-5)" xlink:href="#pattern15245"/>
+  <pattern id="pattern14315" patternTransform="matrix(.26627 0 0 .056109 -343.94 286.09)" xlink:href="#pattern1847"/>
+  <pattern id="pattern14311" patternTransform="matrix(.27415 0 0 .073344 -339.61 265.63)" xlink:href="#pattern1843"/>
+  <pattern id="pattern14307" patternTransform="matrix(.2705 0 0 .073012 -341.05 246.62)" xlink:href="#pattern1839"/>
+  <pattern id="pattern14303" patternTransform="matrix(.28202 0 0 .082001 -341.78 226.89)" xlink:href="#pattern1833"/>
+  <pattern id="pattern14299" patternTransform="matrix(.26969 0 0 .072478 -341.78 207.52)" xlink:href="#pattern1829"/>
+  <pattern id="pattern14295" patternTransform="matrix(.26578 0 0 .065376 -347.56 186.7)" xlink:href="#pattern1825"/>
+  <pattern id="pattern14285" patternTransform="matrix(.14672 0 0 .06251 -332.85 171.08)" xlink:href="#pattern1719"/>
+  <pattern id="pattern14281" patternTransform="matrix(.14822 0 0 .069795 -326.46 145.82)" xlink:href="#pattern1705"/>
+  <pattern id="pattern14277" patternTransform="matrix(.1305 0 0 .064561 -329.54 125.1)" xlink:href="#pattern1695"/>
+  <pattern id="pattern3386" patternTransform="matrix(0 .26627 -.056109 0 -265.59 286.09)" xlink:href="#pattern1847"/>
+  <pattern id="pattern3384" patternTransform="matrix(0 .27415 -.073344 0 -261.25 265.63)" xlink:href="#pattern1843"/>
+  <pattern id="pattern3382" patternTransform="matrix(0 .2705 -.073012 0 -262.7 246.62)" xlink:href="#pattern1839"/>
+  <pattern id="pattern3380" patternTransform="matrix(0 .28202 -.082001 0 -263.42 226.89)" xlink:href="#pattern1833"/>
+  <pattern id="pattern3378" patternTransform="matrix(0 -.26969 .072478 0 -263.42 207.52)" xlink:href="#pattern1829"/>
+  <pattern id="pattern3376" patternTransform="matrix(0 -.26578 .065376 0 -172.48 186.7)" xlink:href="#pattern1825"/>
+  <pattern id="pattern3374" patternTransform="matrix(0 .14672 -.06251 0 -254.5 171.08)" xlink:href="#pattern1719"/>
+  <pattern id="pattern3372" patternTransform="matrix(0 -.14822 .069795 0 -248.11 145.82)" xlink:href="#pattern1705"/>
+  <pattern id="pattern3370" patternTransform="matrix(0 -.1305 .064561 0 -251.19 125.1)" xlink:href="#pattern1695"/>
+  <pattern id="pattern1849" patternTransform="matrix(.18117 -.18117 .046228 .046228 -206.64 288.07)" xlink:href="#pattern2475"/>
+  <pattern id="pattern1847" patternTransform="matrix(.26627 0 0 .056109 -36.169 267.97)" xlink:href="#pattern2475"/>
+  <pattern id="pattern1845" patternTransform="matrix(.1847 -.1847 .051628 .051628 -200.47 267.44)" xlink:href="#pattern2467"/>
+  <pattern id="pattern1843" patternTransform="matrix(.27415 0 0 .073344 -31.832 247.51)" xlink:href="#pattern2467"/>
+  <pattern id="pattern1841" patternTransform="matrix(.18286 -.18286 .046228 .046228 -208.94 244.9)" xlink:href="#pattern2459"/>
+  <pattern id="pattern1839" patternTransform="matrix(.2705 0 0 .073012 -33.278 228.5)" xlink:href="#pattern2459"/>
+  <pattern id="pattern1835" patternTransform="matrix(.19206 -.19206 .054479 .054479 -198.72 225.86)" xlink:href="#pattern2451"/>
+  <pattern id="pattern1833" patternTransform="matrix(.28202 0 0 .082001 -34 208.77)" xlink:href="#pattern2451"/>
+  <pattern id="pattern1831" patternTransform="matrix(.17872 -.17872 .051628 .051628 -198.66 206.79)" xlink:href="#pattern2443"/>
+  <pattern id="pattern1829" patternTransform="matrix(.26969 0 0 .072478 -34 189.39)" xlink:href="#pattern2443"/>
+  <pattern id="pattern1827" patternTransform="matrix(.18709 -.18709 .059596 .059596 -200.11 187.06)" xlink:href="#pattern2435"/>
+  <pattern id="pattern1825" patternTransform="matrix(.26578 0 0 .065376 -39.783 168.58)" xlink:href="#pattern2435"/>
+  <pattern id="pattern1775" patternTransform="matrix(.082906 0 0 .26458 -273.47 42.813)" xlink:href="#pattern2375"/>
+  <pattern id="pattern1773" patternTransform="matrix(.082906 0 0 .26458 -273.47 48.813)" xlink:href="#pattern2419"/>
+  <pattern id="pattern1771" patternTransform="matrix(.082906 0 0 .26458 -273.47 54.813)" xlink:href="#pattern2427"/>
+  <pattern id="pattern1769" patternTransform="matrix(.082906 0 0 .26458 -273.47 60.813)" xlink:href="#pattern2435"/>
+  <pattern id="pattern1767" patternTransform="matrix(.082906 0 0 .26458 -273.47 66.813)" xlink:href="#pattern2443"/>
+  <pattern id="pattern1765" patternTransform="matrix(.082906 0 0 .26458 -273.47 72.813)" xlink:href="#pattern2451"/>
+  <pattern id="pattern1763" patternTransform="matrix(.082906 0 0 .26458 -273.47 78.813)" xlink:href="#pattern2459"/>
+  <pattern id="pattern1761" patternTransform="matrix(.082906 0 0 .26458 -273.47 84.813)" xlink:href="#pattern2467"/>
+  <pattern id="pattern1759" patternTransform="matrix(.082906 0 0 .26458 -273.47 90.813)" xlink:href="#pattern2475"/>
+  <pattern id="pattern1719" patternTransform="matrix(.14672 0 0 .06251 -25.077 152.96)" xlink:href="#pattern2427"/>
+  <pattern id="pattern1717" patternTransform="matrix(.09946 -.09946 .042834 .042834 -198.94 164.95)" xlink:href="#pattern2427"/>
+  <pattern id="pattern1707" patternTransform="matrix(.093967 -.093967 .042834 .042834 -198.42 147.36)" xlink:href="#pattern2419"/>
+  <pattern id="pattern1705" patternTransform="matrix(.14822 0 0 .069795 -18.688 127.7)" xlink:href="#pattern2419"/>
+  <pattern id="pattern1695" patternTransform="matrix(.1305 0 0 .064561 -21.764 106.98)" xlink:href="#pattern2375"/>
+  <pattern id="pattern1693" patternTransform="matrix(.093544 -.093544 .044202 .044202 -198.42 127.66)" xlink:href="#pattern2375"/>
+  <pattern id="pattern2375" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 7.8257)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#00f" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern2419" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 13.826)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#f00" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern2427" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 19.826)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#008000" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern2435" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 25.826)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#f0f" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern2443" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 31.826)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#800080" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern2451" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 37.826)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#f60" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern2459" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 43.826)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#803300" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern2467" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 49.826)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#ff0" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern2475" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 55.826)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#808080" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern1707-9" patternTransform="matrix(.35515 -.35515 .16189 .16189 212.94 38.082)" xlink:href="#pattern2419-4"/>
+  <pattern id="pattern2419-4" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 13.826)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#f00" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern11625" width="149.20414" height="76.565886" patternTransform="translate(648.9 768.25)" patternUnits="userSpaceOnUse">
+   <rect x=".56693" y=".56693" width="148.07" height="75.432" fill="url(#pattern1707-9)" fill-rule="evenodd" opacity=".98" stroke="#000" stroke-width="1.1339"/>
+  </pattern>
+  <pattern id="pattern1693-5" patternTransform="matrix(.35355 -.35355 .16706 .16706 212.94 39.08)" xlink:href="#pattern2375-6"/>
+  <pattern id="pattern2375-6" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 7.8257)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#00f" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern14461" width="149.20414" height="76.565886" patternTransform="translate(583.67 1003)" patternUnits="userSpaceOnUse">
+   <rect x=".56693" y=".56693" width="148.07" height="75.432" fill="url(#pattern1693-5)" fill-rule="evenodd" opacity=".98" stroke="#000" stroke-width="1.1339"/>
+  </pattern>
+  <pattern id="pattern1717-1" patternTransform="matrix(.37591 -.37591 .16189 .16189 211.01 29.138)" xlink:href="#pattern2427-91"/>
+  <pattern id="pattern2427-91" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 19.826)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#008000" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern15245" width="149.20414" height="76.565886" patternTransform="translate(217.96 1130)" patternUnits="userSpaceOnUse">
+   <rect x=".56693" y=".56693" width="148.07" height="75.432" fill="url(#pattern1717-1)" fill-rule="evenodd" opacity=".98" stroke="#000" stroke-width="1.1339"/>
+  </pattern>
+  <pattern id="pattern15288" width="149.20414" height="76.565883" patternTransform="translate(-119.08 934.3)" patternUnits="userSpaceOnUse">
+   <rect width="149.2" height="76.566" fill="url(#pattern15250)"/>
+  </pattern>
+  <pattern id="pattern3574" width="149.20415" height="76.565886" patternTransform="translate(583.67 1003)" patternUnits="userSpaceOnUse">
+   <rect width="149.2" height="76.566" fill="url(#pattern3577)"/>
+  </pattern>
+  <pattern id="pattern3583" width="149.20414" height="76.565883" patternTransform="translate(435.41 1002)" patternUnits="userSpaceOnUse">
+   <rect width="149.2" height="76.566" fill="url(#pattern3581)"/>
+  </pattern>
+  <pattern id="pattern1707-0" patternTransform="matrix(.35515 -.35515 .16189 .16189 212.94 38.082)" xlink:href="#pattern2419-0"/>
+  <pattern id="pattern2419-0" width="151.1811" height="22.677165" patternTransform="matrix(.26458 0 0 .26458 6.8375 13.826)" patternUnits="userSpaceOnUse">
+   <g transform="matrix(3.7795 0 0 3.7795 -39.113 -35.864)">
+    <rect x="10.349" y="9.4889" width="40" height="2" fill="#f00" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+    <rect x="10.349" y="11.489" width="40" height="4" fill="#fff" fill-rule="evenodd"/>
+   </g>
+  </pattern>
+  <pattern id="pattern4521" width="149.20414" height="76.565886" patternTransform="translate(-329.61 891.8)" patternUnits="userSpaceOnUse">
+   <rect x=".56693" y=".56693" width="148.07" height="75.432" fill="url(#pattern1707-0)" fill-rule="evenodd" opacity=".98" stroke="#000" stroke-width="1.1339"/>
+  </pattern>
+  <pattern id="pattern4548" width="149.20414" height="76.565876" patternTransform="translate(123.08 1137.4)" patternUnits="userSpaceOnUse">
+   <rect width="149.2" height="76.566" fill="url(#pattern4546)"/>
+  </pattern>
+ </defs>
+ <g transform="translate(75.25 -168.87)">
+  <g transform="matrix(.85714 0 0 .9 8.5714 .26033)" fill="#f9f9f9" stroke="#010000">
+   <rect x="2.2375" y=".28158" width="45.525" height="21.081" stroke-width="1.1417" style="paint-order:normal"/>
+   <ellipse cx="1.6667" cy="10.822" rx="11.125" ry="10.569" stroke-width="1.0843" style="paint-order:normal"/>
+   <ellipse cx="48.333" cy="10.822" rx="11.125" ry="10.569" stroke-width="1.0843" style="paint-order:normal"/>
+  </g>
+  <path d="m10.024 150.5a9.5239 9.5 0 0 0-9.5239 9.5 9.5239 9.5 0 0 0 9.5239 9.5 9.5239 9.5 0 0 0 0.69782-0.0258h38.557a9.5239 9.5 0 0 0 0.69783 0.0258 9.5239 9.5 0 0 0 9.5239-9.5 9.5239 9.5 0 0 0-9.5239-9.5 9.5239 9.5 0 0 0-0.68441 0.0258h-38.574a9.5239 9.5 0 0 0-0.69421-0.0258z" fill="#f9f9f9" stroke="#010000" stroke-width=".99996" style="paint-order:normal"/>
+  <g>
+   <path d="m-64.726 169.87a9.5239 9.5 0 0 0-9.5239 9.5 9.5239 9.5 0 0 0 9.5239 9.5 9.5239 9.5 0 0 0 0.69782-0.0258h38.557a9.5239 9.5 0 0 0 0.69783 0.0258 9.5239 9.5 0 0 0 9.5239-9.5 9.5239 9.5 0 0 0-9.5239-9.5 9.5239 9.5 0 0 0-0.68441 0.0258h-38.574a9.5239 9.5 0 0 0-0.69421-0.0258z" fill="#008000" stroke="#008000" stroke-width="2" style="paint-order:normal"/>
+   <path d="m113.92 186.63a9.5239 9.5 0 0 0-9.5239 9.5 9.5239 9.5 0 0 0 9.5239 9.5 9.5239 9.5 0 0 0 0.69782-0.0258h38.557a9.5239 9.5 0 0 0 0.69783 0.0258 9.5239 9.5 0 0 0 9.5239-9.5 9.5239 9.5 0 0 0-9.5239-9.5 9.5239 9.5 0 0 0-0.68441 0.0258h-38.574a9.5239 9.5 0 0 0-0.6942-0.0258z" fill="url(#pattern11625)" fill-rule="evenodd" stroke="#f00" style="paint-order:normal"/>
+   <path d="m114.7 219.06a9.5239 9.5 0 0 0-9.5239 9.5 9.5239 9.5 0 0 0 9.5239 9.5 9.5239 9.5 0 0 0 0.69782-0.0258h38.557a9.5239 9.5 0 0 0 0.69783 0.0258 9.5239 9.5 0 0 0 9.5239-9.5 9.5239 9.5 0 0 0-9.5239-9.5 9.5239 9.5 0 0 0-0.68441 0.0258h-38.574a9.5239 9.5 0 0 0-0.6942-0.0258z" fill="#f00" stroke="#f00" style="paint-order:normal"/>
+  </g>
+  <g transform="matrix(.85714 0 0 .9 99.138 134.5)" fill="#f9f9f9" stroke="#010000">
+   <rect x="2.2375" y=".28158" width="45.525" height="21.081" stroke-width="1.1417" style="paint-order:normal"/>
+   <ellipse cx="1.6667" cy="10.822" rx="11.125" ry="10.569" stroke-width="1.0843" style="paint-order:normal"/>
+   <ellipse cx="48.333" cy="10.822" rx="11.125" ry="10.569" stroke-width="1.0843" style="paint-order:normal"/>
+  </g>
+  <rect transform="matrix(.94868 .31623 -.94868 .31623 0 0)" x="80.638" y="49.015" width="31.623" height="31.623" fill="#f00" stroke-width=".34158"/>
+  <path transform="scale(.26458)" d="m501.81 159.99-113.38 37.795 113.38 37.795 113.39-37.795z" fill="none" stroke-width="3.7795"/>
+  <rect transform="matrix(.94868 .31623 -.94868 .31623 0 0)" x="125.12" y="11.088" width="31.623" height="31.623" fill="none" stroke-width="1.291"/>
+  <g transform="translate(8.3213 41.052)" fill="none" stroke="#000" stroke-width=".26458px">
+   <path d="m0 90s11.668-6.3521 20-5 11.668 8.6479 20 10 20-5 20-5m-60 10s11.668-6.3521 20-5c8.3318 1.3521 11.668 8.6479 20 10 8.3318 1.3521 20-5 20-5"/>
+   <path d="m0 90 1e-6 10"/>
+   <path d="m60 90v10"/>
+  </g>
+  <path d="m0 74.69c23.682-7.4995 39.348 10.604 60 0v12.827c-19.348 10.793-38.416-9.1834-60 0z" fill="#f00" stroke-width=".10157"/>
+  <path d="m101.83 68.482c-3.9625-0.03603-8.1206 0.47022-12.561 1.8764v12.827c21.584-9.1834 40.652 10.793 60 0v-12.827c-16.78 8.6154-30.268-1.7203-47.439-1.8764z" fill="#f00" stroke-width=".10157"/>
+  <g fill="#fff">
+   <path d="m94.08 96.086c23.682-8.3328 39.348 11.782 60 0v14.253c-19.348 11.992-38.416-10.204-60 0z" stroke-width=".10706"/>
+   <path transform="matrix(-.17246 .057483 -.17246 -.057483 129.43 175.89)" d="m492.34 246.27h-166.97v-166.97h166.97z" stroke="#000" stroke-width="7.102"/>
+   <path d="m0.49971 213.18c19.568-6.5388 39.399 5.6951 59.098 0v15.322c-19.568 6.6443-39.268-7.9099-59.098 0z" stroke="#000"/>
+  </g>
+  <path d="m23.277 260.22c19.568-6.5388 39.399 5.6951 59.098 0v15.322c-19.568 6.6443-39.268-7.9099-59.098 0z" fill="url(#pattern4548)" stroke="#0000f6"/>
+  <path d="m-61.715 299.19c19.568-6.5388 39.399 5.6951 59.098 0v15.322c-19.568 6.6443-39.268-7.9099-59.098 0z" fill="url(#pattern15245)" stroke="#00f"/>
+  <rect x="-273.47" y="42.813" width="12.534" height="6" fill="url(#pattern1775)"/>
+  <rect x="-273.47" y="48.813" width="12.534" height="6" fill="url(#pattern1773)"/>
+  <rect x="-273.47" y="54.813" width="12.534" height="6" fill="url(#pattern1771)"/>
+  <rect x="-273.47" y="60.813" width="12.534" height="6" fill="url(#pattern1769)"/>
+  <rect x="-273.47" y="66.813" width="12.534" height="6" fill="url(#pattern1767)"/>
+  <rect x="-273.47" y="72.813" width="12.534" height="6" fill="url(#pattern1765)"/>
+  <rect x="-273.47" y="78.813" width="12.534" height="6" fill="url(#pattern1763)"/>
+  <rect x="-273.47" y="84.813" width="12.534" height="6" fill="url(#pattern1761)"/>
+  <rect x="-273.47" y="90.813" width="12.534" height="6" fill="url(#pattern1759)"/>
+  <g fill="#000000" font-family="sans-serif" font-size="3.8806px" letter-spacing="0px" stroke-width="1.2534" word-spacing="0px">
+   <text x="-250.11942" y="45.481743" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-250.11942" y="45.481743">From Fill and stroke dialog (CTRL SHIFT F), choose pattern fill icon</tspan><tspan x="-250.11942" y="50.332443">then Pattern**** from dropdown list.</tspan></text>
+   <text x="-301.9512" y="45.182899" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-301.9512" y="45.182899" stroke-width="1.2534">Pattern2375</tspan></text>
+   <text x="-301.9512" y="51.281193" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-301.9512" y="51.281193" stroke-width="1.2534">Pattern2419</tspan></text>
+   <text x="-301.9512" y="57.749084" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-301.9512" y="57.749084" stroke-width="1.2534">Pattern2427</tspan></text>
+   <text x="-301.9512" y="63.292988" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-301.9512" y="63.292988" stroke-width="1.2534">Pattern2435</tspan></text>
+   <text x="-301.9512" y="69.391289" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-301.9512" y="69.391289" stroke-width="1.2534">Pattern2443</tspan></text>
+   <text x="-301.9512" y="75.119987" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-301.9512" y="75.119987" stroke-width="1.2534">Pattern2451</tspan></text>
+   <text x="-301.9512" y="81.403084" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-301.9512" y="81.403084" stroke-width="1.2534">Pattern2459</tspan></text>
+   <text x="-301.9512" y="86.946983" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-301.9512" y="86.946983" stroke-width="1.2534">Pattern2467</tspan></text>
+   <text x="-301.9512" y="93.04528" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-301.9512" y="93.04528" stroke-width="1.2534">Pattern2475</tspan></text>
+  </g>
+  <g fill-rule="evenodd" stroke="#000" stroke-width=".3">
+   <rect x="-254.61" y="117.47" width="39.177" height="19.958" fill="url(#pattern1693)" opacity=".98"/>
+   <rect x="-293.79" y="117.47" width="39.177" height="19.958" fill="url(#pattern14277)" opacity=".98"/>
+   <rect x="-254.61" y="137.43" width="39.177" height="19.958" fill="url(#pattern1707)" opacity=".98"/>
+  </g>
+  <rect transform="scale(.26458)" x="-329.61" y="891.8" width="149.2" height="76.566" fill="url(#pattern4521)"/>
+  <rect x="-293.79" y="137.43" width="39.177" height="19.958" fill="url(#pattern14281)" fill-rule="evenodd" opacity=".98" stroke="#000" stroke-width=".3"/>
+  <rect x="-254.61" y="157.39" width="39.177" height="19.958" fill="url(#pattern1717)" fill-rule="evenodd" opacity=".98" stroke="#000" stroke-width=".3"/>
+  <rect transform="scale(.26458)" x="-119.08" y="934.3" width="149.2" height="76.566" fill="url(#pattern15288)"/>
+  <g>
+   <rect x="-293.79" y="157.39" width="39.177" height="19.958" fill="url(#pattern14285)" fill-rule="evenodd" opacity=".98" stroke="#000" stroke-width=".3"/>
+   <text x="-250.11942" y="57.823727" dominant-baseline="auto" fill="#000000" font-family="sans-serif" font-size="3.8806px" letter-spacing="0px" stroke-width="1.2534" word-spacing="0px" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-250.11942" y="57.823727" stroke-width="1.2534">To change pattern spacing or angle</tspan><tspan x="-250.11942" y="62.674427" stroke-width="1.2534">use Node tool (N), then find small cross &amp; dot and squares somewhere</tspan><tspan x="-250.11942" y="67.525124" stroke-width="1.2534">on page and drag to alter pattern.</tspan><tspan x="-250.11942" y="72.375824"/><tspan x="-250.11942" y="77.226524"/></text>
+   <g fill-rule="evenodd" stroke="#000" stroke-width=".3">
+    <rect x="-254.61" y="177.35" width="39.177" height="19.958" fill="url(#pattern1827)" opacity=".98"/>
+    <rect x="-293.79" y="177.35" width="39.177" height="19.958" fill="url(#pattern14295)" opacity=".98"/>
+    <rect x="-254.61" y="197.3" width="39.177" height="19.958" fill="url(#pattern1831)" opacity=".98"/>
+    <rect x="-293.79" y="197.3" width="39.177" height="19.958" fill="url(#pattern14299)" opacity=".98"/>
+    <rect x="-254.61" y="217.26" width="39.177" height="19.958" fill="url(#pattern1835)" opacity=".98"/>
+    <rect x="-293.79" y="217.26" width="39.177" height="19.958" fill="url(#pattern14303)" opacity=".98"/>
+    <rect x="-254.61" y="237.22" width="39.177" height="19.958" fill="url(#pattern1841)" opacity=".98"/>
+    <rect x="-293.79" y="237.22" width="39.177" height="19.958" fill="url(#pattern14307)" opacity=".98"/>
+    <rect x="-254.61" y="257.18" width="39.177" height="19.958" fill="url(#pattern1845)" opacity=".98"/>
+    <rect x="-293.79" y="257.18" width="39.177" height="19.958" fill="url(#pattern14311)" opacity=".98"/>
+    <rect x="-254.61" y="277.14" width="39.177" height="19.958" fill="url(#pattern1849)" opacity=".98"/>
+    <rect x="-293.79" y="277.14" width="39.177" height="19.958" fill="url(#pattern14315)" opacity=".98"/>
+   </g>
+  </g>
+  <g fill="#000000" font-family="sans-serif" letter-spacing="0px" stroke-width="1.2534" word-spacing="0px">
+   <g font-size="3.8806px">
+    <text x="-158.05061" y="128.69131" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-158.05061" y="128.69131" stroke-width="1.2534">Pattern2375</tspan></text>
+    <text x="-158.05061" y="148.4736" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-158.05061" y="148.4736" stroke-width="1.2534">Pattern2419</tspan></text>
+    <text x="-158.05061" y="168.25589" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-158.05061" y="168.25589" stroke-width="1.2534">Pattern2427</tspan></text>
+    <text x="-158.05061" y="188.03818" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-158.05061" y="188.03818" stroke-width="1.2534">Pattern2435</tspan></text>
+    <text x="-158.05061" y="207.82048" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-158.05061" y="207.82048" stroke-width="1.2534">Pattern2443</tspan></text>
+    <text x="-158.05061" y="227.60278" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-158.05061" y="227.60278" stroke-width="1.2534">Pattern2451</tspan></text>
+    <text x="-158.05061" y="247.38509" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-158.05061" y="247.38509" stroke-width="1.2534">Pattern2459</tspan></text>
+    <text x="-158.05061" y="267.16739" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-158.05061" y="267.16739" stroke-width="1.2534">Pattern2467</tspan></text>
+    <text x="-158.05061" y="286.94968" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-158.05061" y="286.94968" stroke-width="1.2534">Pattern2475</tspan></text>
+    <text x="-242.20451" y="77.16819" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-242.20451" y="77.16819" stroke-width="1.2534">× to move starting point or three</tspan><tspan x="-242.20451" y="82.01889" stroke-width="1.2534">controls to another part of page.</tspan><tspan x="-242.20451" y="89.054466" dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.30000001" stroke-width="1.2534"><tspan dy="0 -0.40000001" stroke-width="1.2534"><tspan dy="0.69999999" font-family="sans-serif" font-size="6.35px" font-weight="bold">○</tspan> to rotate pattern</tspan></tspan><tspan x="-242.20451" y="96.367714" dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.30000001" font-size="5.6444px" stroke-width="1.2534">□ <tspan font-size="3.8806px">to change spacing</tspan></tspan><tspan x="-242.20451" y="101.86264"/><tspan x="-242.20451" y="106.71334"/></text>
+    <text x="-291.67661" y="107.61793" dominant-baseline="auto" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-291.67661" y="107.61793">OR: Copy on of the large objects below, then select new object and</tspan><tspan x="-291.67661" y="112.46863">Edit/Paste Style (or CTRL SHFT V). Note: Paste Style will also change stroke/border.</tspan></text>
+   </g>
+   <text x="-282.26849" y="31.720694" dominant-baseline="auto" font-size="4.9389px" font-weight="bold" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;line-height:1.25;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="-282.26849" y="31.720694" font-family="sans-serif" font-size="4.9389px" font-weight="bold" stroke-width="1.2534">Geoff Phillips's Coloured pattern fills Inkscape document</tspan></text>
+  </g>
+  <g fill-rule="evenodd" stroke="#000" stroke-width=".3">
+   <rect x="-215.44" y="117.47" width="39.177" height="19.958" fill="url(#pattern3370)" opacity=".98"/>
+   <rect x="-215.44" y="137.43" width="39.177" height="19.958" fill="url(#pattern3372)" opacity=".98"/>
+   <rect x="-215.44" y="157.39" width="39.177" height="19.958" fill="url(#pattern3374)" opacity=".98"/>
+   <rect x="-215.44" y="177.35" width="39.177" height="19.958" fill="url(#pattern3376)" opacity=".98"/>
+   <rect x="-215.44" y="197.3" width="39.177" height="19.958" fill="url(#pattern3378)" opacity=".98"/>
+   <rect x="-215.44" y="217.26" width="39.177" height="19.958" fill="url(#pattern3380)" opacity=".98"/>
+   <rect x="-215.44" y="237.22" width="39.177" height="19.958" fill="url(#pattern3382)" opacity=".98"/>
+   <rect x="-215.44" y="257.18" width="39.177" height="19.958" fill="url(#pattern3384)" opacity=".98"/>
+   <rect x="-215.44" y="277.14" width="39.177" height="19.958" fill="url(#pattern3386)" opacity=".98"/>
+  </g>
+  <rect transform="scale(.26458)" x="123.08" y="1137.4" width="149.2" height="76.566" fill="url(#pattern4548)"/>
+ </g>
+</svg>
