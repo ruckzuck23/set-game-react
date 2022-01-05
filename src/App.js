@@ -92,8 +92,11 @@ const App = () => {
   }
 
   useEffect(() => {
-    if (!(shuffleRemain || isSolutionPresent(cards)) && cards.length) {
-      // If you are stuck, game over
+    if (
+      cards.length && // game over if there are leftover on board
+      !isSolutionPresent(cards) && // and stuck with no solution
+      !(cardsInDeck.length && shuffleRemain) // and with no shuffle left, or no cards to shuffle with
+    ) {
       setIsGameOver(true);
       setIsModalOpen(true);
     }
